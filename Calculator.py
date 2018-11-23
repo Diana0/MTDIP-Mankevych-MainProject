@@ -1,8 +1,8 @@
 # Python Program - Make Simple Calculator
 
-print("1. Division");
-print("2. Subtraction");
-print("3. Multiplication");
+print("1. Addition12");
+print("2. Minus");
+print("3. Multiply");
 print("4. Division");
 print("5. Exit");
 choice = int(input("Enter your choice: "));
