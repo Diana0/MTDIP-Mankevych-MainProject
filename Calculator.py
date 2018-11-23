@@ -1,6 +1,6 @@
 # Python Program - Make Simple Calculator
 
-print("1. Addition");
+print("1. Division");
 print("2. Subtraction");
 print("3. Multiplication");
 print("4. Division");
